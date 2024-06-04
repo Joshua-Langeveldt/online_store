@@ -1,0 +1,46 @@
+{
+
+    "results": [
+        {
+"productName": "Dell-Latitude",
+"category": "Laptop",
+"description": "Dell Latitude i3 5th Gen 1 for business. RAM: 8GB, HDD: 1TB",
+"amount": 20000,
+"img_url": "https://postimg.cc/NLCRMgC2"
+    },
+
+    {
+        "productName": "Dell-Latitude",
+        "category": "Laptop",
+        "description": "Dell Latitude i3 5th Gen 1 for business. RAM: 8GB, HDD: 1TB",
+        "amount": 20000,
+        "img_url": "https://postimg.cc/NLCRMgC2"
+            },
+
+            {
+                "productName": "Dell-Latitude",
+                "category": "Laptop",
+                "description": "Dell Latitude i3 5th Gen 1 for business. RAM: 8GB, HDD: 1TB",
+                "amount": 20000,
+                "img_url": "https://postimg.cc/NLCRMgC2"
+                    },
+
+                    {
+                        "productName": "Dell-Latitude",
+                        "category": "Laptop",
+                        "description": "Dell Latitude i3 5th Gen 1 for business. RAM: 8GB, HDD: 1TB",
+                        "amount": 20000,
+                        "img_url": "https://postimg.cc/NLCRMgC2"
+                            },
+
+                            {
+                                "productName": "Dell-Latitude",
+                                "category": "Laptop",
+                                "description": "Dell Latitude i3 5th Gen 1 for business. RAM: 8GB, HDD: 1TB",
+                                "amount": 20000,
+                                "img_url": "https://postimg.cc/NLCRMgC2"
+                                    }   
+]
+}
+
+/* in json all properties/content must be in quotations */
