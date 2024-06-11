@@ -163,7 +163,7 @@
             {
                 "productName": "Square Box Chain Bracelet",
                 "category": "Bracelets",
-                "Material: "Sterling Silver",
+                "Material": "Sterling Silver",
                 "Amount": 900,
                 "gender": "Man",
                 "img_url": "https://leahbasson.github.io/MyImages/jsProject/MensSquareBoxChainBracelet.jpg"
@@ -180,7 +180,7 @@
                 "productName": "Gemstone Beaded Bracelet",
                 "category": "Bracelets",
                 "Material": "Sterling Silver, Tiger Eye",
-                "Amount""": 300,
+                "Amount": 300,
                 "gender": "Man",
                 "img_url": "https://leahbasson.github.io/MyImages/jsProject/GemstoneBeadedBracelet.jpg"
             },
