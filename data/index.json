@@ -1,44 +1,196 @@
 {
-
-    "results": [
+    "result":[
         {
-"productName": "Dell-Latitude",
-"category": "Laptop",
-"description": "Dell Latitude i3 5th Gen 1 for business. RAM: 8GB, HDD: 1TB",
-"amount": 20000,
-"img_url": "https://postimg.cc/NLCRMgC2"
-    },
-
-    {
-        "productName": "Dell-Latitude",
-        "category": "Laptop",
-        "description": "Dell Latitude i3 5th Gen 1 for business. RAM: 8GB, HDD: 1TB",
-        "amount": 20000,
-        "img_url": "https://postimg.cc/NLCRMgC2"
+            "productName": "Dome Figure Slim Ring",
+            "category": "Rings",
+            "Material": "Gold",
+            "Amount": 1200,
+            "gender": "Woman",
+            "img_url": "https://leahbasson.github.io/MyImages/jsProject/domeFigureSlimRing.jpg"
             },
-
             {
-                "productName": "Dell-Latitude",
-                "category": "Laptop",
-                "description": "Dell Latitude i3 5th Gen 1 for business. RAM: 8GB, HDD: 1TB",
-                "amount": 20000,
-                "img_url": "https://postimg.cc/NLCRMgC2"
-                    },
-
-                    {
-                        "productName": "Dell-Latitude",
-                        "category": "Laptop",
-                        "description": "Dell Latitude i3 5th Gen 1 for business. RAM: 8GB, HDD: 1TB",
-                        "amount": 20000,
-                        "img_url": "https://postimg.cc/NLCRMgC2"
-                            },
-
-                            {
-                                "productName": "Dell-Latitude",
-                                "category": "Laptop",
-                                "description": "Dell Latitude i3 5th Gen 1 for business. RAM: 8GB, HDD: 1TB",
-                                "amount": 20000,
-                                "img_url": "https://postimg.cc/NLCRMgC2"
-                                    }   
-]
+                "productName" : "Layered Opal Necklace",
+                "category": "Necklaces",
+                "Material": "Gold Vermeil, Opal",
+                "Amount": 1500,
+                "gender": "Woman",
+                "img_url": "https://leahbasson.github.io/MyImages/jsProject/LayeredOpalNecklace.jpg"
+            },
+            {
+                "productName": "Pearl Charm Necklace",
+                "category": "Necklaces",
+                "Material": "Gold Vermeil, Pearl",
+                "Amount": 1000,
+                "gender": "Woman",
+                "img_url": "https://leahbasson.github.io/MyImages/jsProject/PearlCharmNecklace.jpg"
+            },
+            {
+                "productName": "Tube Medium Hoops",
+                "category": "Earrings",
+                "Material": "Gold Vermeil",
+                "Amount": 500,
+                "gender": "Woman",
+                "img_url": "https://leahbasson.github.io/MyImages/jsProject/TubeMediumHoops.jpg"
+            },
+            {
+                "productName": "Anchor Chain Bracelet",
+                "category": "Bracelets",
+                "Material": "14k Yellow Gold",
+               "Amount": 900,
+                "gender": "Woman",
+                "img_url": "https://leahbasson.github.io/MyImages/jsProject/AnchorChainBracelet.jpg"
+            },
+            {
+                "productName": "Black Onyx Square Signet Ring",
+                "category": "Rings",
+                "Material": "14k Yellow Gold, Black Onyx",
+                "Amount": 1200,
+                "gender": "Man",
+                "img_url": "https://leahbasson.github.io/MyImages/jsProject/MensBlackOnyxSquareSignetRing.jpg"
+            },
+            {
+                "productName": "Bold Huggie Hoops",
+              "category": "Earrings",
+                "Material": "14k Yellow Gold",
+                "Amount": 500,
+                "gender": "Woman",
+                "img_url": "https://leahbasson.github.io/MyImages/jsProject/BoldHuggieHoops.jpg"
+            },
+            {
+                "productName": "Stacker Ring",
+                "category": "Rings",
+                "Material": "14k Yellow Gold",
+                "Amount": 1300,
+                "gender": "Woman",
+                "img_url": "https://leahbasson.github.io/MyImages/jsProject/StackerRing.jpg"
+            },
+            {
+                "productName": "Puffy Charlotte Cuff Bracelet",
+                "category": "Bracelets",
+                "Material": "14k Yellow Gold",
+                "Amount": 1100,
+                "gender": "Woman",
+                "img_url": "https://leahbasson.github.io/MyImages/jsProject/PuffyCharlotteCuffBracelet.jpg"
+            },
+            {
+                "productName": "Bold Diamond Eternity Ring",
+                "category": "Rings",
+                "Material": "14k Yellow Gold, Natural Diamond",
+                "Amount": 1800,
+               "gender": "Woman",
+                "img_url": "https://leahbasson.github.io/MyImages/jsProject/BoldDiamondEternityRing.jpg"
+            },
+            {
+                "productName": "Large Pave Diamond Round Necklace",
+                "category": "Necklaces",
+                "Material": "14k Yellow Gold, Natural Diamond",
+                "Amount": 850,
+                "gender": "Woman",
+                "img_url": "https://leahbasson.github.io/MyImages/jsProject/LargePaveDiamondRoundNecklace.jpg"
+            },
+            {
+                "productName": "Diamond Mini Studs",
+                "category": "Earrings",
+                "Material": "14k Yellow Gold, Natural Diamond",
+                "Amount": 400,
+                "gender": "Woman",
+                "img_url": "https://leahbasson.github.io/MyImages/jsProject/DiamondMiniStuds.jpg"
+            },
+            {
+                "productName": "Serpentine Chain Bracelet",
+                "category": "Bracelets",
+                "Material": "14k Yellow Gold",
+                "Amount": 1000,
+                "gender": "Woman",
+                "img_url": "https://leahbasson.github.io/MyImages/jsProject/SerpentineChainBracelet.jpg"
+            },
+            {
+                "productName": "Curb Chain Bracelet",
+                "category": "Bracelets",
+                "Material": "Oxidized Sterling Silver",
+               "Amount": 900,
+                "gender": "Man",
+                "img_url": "https://leahbasson.github.io/MyImages/jsProject/MensCurbChainBracelet.jpg"
+            },
+            {
+                "productName": "Curb Necklace",
+                "category": "Necklaces",
+                "Material": "Titanium",
+                "Amount": 1000,
+                "gender": "Man",
+                "img_url": "https://leahbasson.github.io/MyImages/jsProject/MensCurbNecklace.jpg"
+            },
+            {
+                "productName": "Flat Curb Chain Bracelet",
+                "category": "Bracelets",
+                "Material": "14k Yellow Gold",
+                "Amount": 1300,
+                "gender": "Man",
+                "img_url": "https://leahbasson.github.io/MyImages/jsProject/MensFlatCurbChainBracelet.jpeg"
+            },
+            {
+                "productName": "Flat Curb Chain Necklace",
+                "category": "Necklaces",
+                "Material": "14k Yellow Gold",
+                "Amount": 1500,
+                "gender": "Man",
+                "img_url": "https://leahbasson.github.io/MyImages/jsProject/MensFlatCurbChainNecklace.jpg"
+            },
+            {
+                "productName": "Smooth Band",
+                "category": "Rings",
+                "Material": "Black Titanium",
+                "Amount": 550,
+                "gender": "Man",
+                "img_url": "https://leahbasson.github.io/MyImages/jsProject/MensSmoothBand.jpg"
+            },
+            {
+                "productName": "Gemstone Beaded Bracelet",
+                "category": "Bracelets",
+                "Material": "Black Agate, Sterling Silver",
+                "Amount": 500,
+                "gender": "Man",
+                "img_url": "https://leahbasson.github.io/MyImages/jsProject/MensGemstoneBeadedBracelet.jpg"
+            },
+            {
+                "productName": "Round Box Chain Necklace",
+                "category": "Necklaces",
+                "Material": "14k Yellow Gold",
+                "Amount": 1500,
+                "gender": "Man",
+                "img_url": "https://leahbasson.github.io/MyImages/jsProject/MensRoundBoxChainNecklace.jpg"
+            },
+            {
+                "productName": "Square Box Chain Bracelet",
+                "category": "Bracelets",
+                "Material: "Sterling Silver",
+                "Amount": 900,
+                "gender": "Man",
+                "img_url": "https://leahbasson.github.io/MyImages/jsProject/MensSquareBoxChainBracelet.jpg"
+            },
+            {
+               " productName": "Square Signet Ring",
+               " category": "Rings",
+               " Material": "Sterling Silver",
+               " Amount": 1000,
+                "gender": "Man",
+               " img_url": "https://leahbasson.github.io/MyImages/jsProject/SquareSignetRing.jpg"
+            },
+            {
+                "productName": "Gemstone Beaded Bracelet",
+                "category": "Bracelets",
+                "Material": "Sterling Silver, Tiger Eye",
+                "Amount""": 300,
+                "gender": "Man",
+                "img_url": "https://leahbasson.github.io/MyImages/jsProject/GemstoneBeadedBracelet.jpg"
+            },
+            {
+                "productName": "Bold Round Signet Ring",
+                "category": "Rings",
+                "Material": "Sterling Silver",
+                "Amount": 400,
+                "gender": "Man",
+                "img_url": "https://leahbasson.github.io/MyImages/jsProject/MensBoldRoundSignetRing.jpg"
+            }
+    ]
 }
